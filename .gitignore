@@ -1,0 +1,25 @@
+﻿# dependencies
+node_modules/
+.opencode/node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# env
+.env
+.env.*
+
+# build/cache
+.dist/
+dist/
+build/
+coverage/
+.tmp/
+tmp/
+
+# system
+.DS_Store
+Thumbs.db
